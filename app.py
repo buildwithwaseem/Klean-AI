@@ -170,7 +170,7 @@ def render_sidebar():
         # Footer in sidebar
         st.markdown("""
         <div style="text-align: center; color: #475569; font-size: 0.7rem; padding-top: 0.5rem;">
-            Built with ❤️ using Streamlit & Plotly by buildwithwaseem<br>
+            Built with ❤️ by buildwithwaseem<br>
             <span style="color: #6366F1;">Klean AI</span> © 2026
         </div>
         """, unsafe_allow_html=True)
