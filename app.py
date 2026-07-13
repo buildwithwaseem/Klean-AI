@@ -1,12 +1,12 @@
 """
-╔══════════════════════════════════════════════════════════════════╗
-║              Klean AI — Main Application                          ║
-║      Automated Dataset Cleaner & Explorer (Mini-EDA Tool)        ║
-║                                                                  ║
-║  A production-grade Streamlit app that automates data preprocessing,
-║  cleaning, and exploratory data analysis. Features a futuristic dark-mode
-║  UI with neon accents and human-friendly workflows.
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗
+║              Klean AI — Main Application                                       ║
+║      Automated Dataset Cleaner & Explorer (Mini-EDA Tool)                      ║
+║                                                                                ║
+║  A production-grade Streamlit app that automates data preprocessing,           ║
+║  cleaning, and exploratory data analysis. Features a futuristic dark-mode      ║
+║  UI with neon accents and human-friendly workflows.                            ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 """
 
 import streamlit as st
