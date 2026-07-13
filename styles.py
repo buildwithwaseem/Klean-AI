@@ -13,83 +13,40 @@ CUSTOM_CSS = """
 /* ============================
    CSS VARIABLES & ROOT
    ============================ */
-/* ============================
-   DYNAMIC THEME ADAPTATION
-   ============================ */
-/* when user or system in DARK mode */
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg-primary: #0B0F19;
-        --bg-secondary: #111827;
-        --bg-card: #1E293B;
-        --bg-card-hover: #243047;
-        --bg-input: #0F172A;
-        --border-subtle: rgba(99, 102, 241, 0.15);
-        --border-glow: rgba(99, 102, 241, 0.4);
-        --text-primary: #F1F5F9;
-        --text-secondary: #94A3B8;
-        --text-muted: #64748B;
-        --accent-indigo: #6366F1;
-        --accent-indigo-light: #818CF8;
-        --accent-teal: #14B8A6;
-        --accent-teal-light: #2DD4BF;
-        --accent-rose: #F43F5E;
-        --accent-amber: #F59E0B;
-        --accent-emerald: #10B981;
-        --gradient-primary: linear-gradient(135deg, #6366F1 0%, #8B5CF6 50%, #A78BFA 100%);
-        --gradient-teal: linear-gradient(135deg, #14B8A6 0%, #06B6D4 100%);
-        --gradient-rose: linear-gradient(135deg, #F43F5E 0%, #E11D48 100%);
-        --gradient-card: linear-gradient(145deg, rgba(30, 41, 59, 0.8) 0%, rgba(15, 23, 42, 0.6) 100%);
-        --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.3), 0 1px 4px rgba(0, 0, 0, 0.2);
-        --shadow-glow-indigo: 0 0 20px rgba(99, 102, 241, 0.3), 0 0 60px rgba(99, 102, 241, 0.1);
-        --shadow-glow-teal: 0 0 20px rgba(20, 184, 166, 0.3), 0 0 60px rgba(20, 184, 166, 0.1);
-        --radius-sm: 8px;
-        --radius-md: 12px;
-        --radius-lg: 16px;
-        --radius-xl: 20px;
-        --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
-        --transition-base: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-        --transition-slow: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    }
+:root {
+    --bg-primary: #0B0F19;
+    --bg-secondary: #111827;
+    --bg-card: #1E293B;
+    --bg-card-hover: #243047;
+    --bg-input: #0F172A;
+    --border-subtle: rgba(99, 102, 241, 0.15);
+    --border-glow: rgba(99, 102, 241, 0.4);
+    --text-primary: #F1F5F9;
+    --text-secondary: #94A3B8;
+    --text-muted: #64748B;
+    --accent-indigo: #6366F1;
+    --accent-indigo-light: #818CF8;
+    --accent-teal: #14B8A6;
+    --accent-teal-light: #2DD4BF;
+    --accent-rose: #F43F5E;
+    --accent-amber: #F59E0B;
+    --accent-emerald: #10B981;
+    --gradient-primary: linear-gradient(135deg, #6366F1 0%, #8B5CF6 50%, #A78BFA 100%);
+    --gradient-teal: linear-gradient(135deg, #14B8A6 0%, #06B6D4 100%);
+    --gradient-rose: linear-gradient(135deg, #F43F5E 0%, #E11D48 100%);
+    --gradient-card: linear-gradient(145deg, rgba(30, 41, 59, 0.8) 0%, rgba(15, 23, 42, 0.6) 100%);
+    --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.3), 0 1px 4px rgba(0, 0, 0, 0.2);
+    --shadow-glow-indigo: 0 0 20px rgba(99, 102, 241, 0.3), 0 0 60px rgba(99, 102, 241, 0.1);
+    --shadow-glow-teal: 0 0 20px rgba(20, 184, 166, 0.3), 0 0 60px rgba(20, 184, 166, 0.1);
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+    --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-base: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-slow: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
-
-/* when user or system in LIGHT mode */
-@media (prefers-color-scheme: light) {
-    :root {
-        --bg-primary: #F8FAFC;
-        --bg-secondary: #E2E8F0;
-        --bg-card: #FFFFFF;
-        --bg-card-hover: #F1F5F9;
-        --bg-input: #FFFFFF;
-        --border-subtle: rgba(99, 102, 241, 0.2);
-        --border-glow: rgba(99, 102, 241, 0.5);
-        --text-primary: #0F172A;
-        --text-secondary: #475569;
-        --text-muted: #64748B;
-        --accent-indigo: #4F46E5;
-        --accent-indigo-light: #6366F1;
-        --accent-teal: #0D9488;
-        --accent-teal-light: #14B8A6;
-        --accent-rose: #E11D48;
-        --accent-amber: #D97706;
-        --accent-emerald: #059669;
-        --gradient-primary: linear-gradient(135deg, #4F46E5 0%, #7C3AED 50%, #9333EA 100%);
-        --gradient-teal: linear-gradient(135deg, #0D9488 0%, #0891B2 100%);
-        --gradient-rose: linear-gradient(135deg, #E11D48 0%, #BE123C 100%);
-        --gradient-card: linear-gradient(145deg, #FFFFFF 0%, #F8FAFC 100%);
-        --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.02);
-        --shadow-glow-indigo: 0 4px 12px rgba(79, 70, 229, 0.1);
-        --shadow-glow-teal: 0 4px 12px rgba(13, 148, 136, 0.1);
-        --radius-sm: 8px;
-        --radius-md: 12px;
-        --radius-lg: 16px;
-        --radius-xl: 20px;
-        --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
-        --transition-base: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-        --transition-slow: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-}
-/* ============================
+   /* ============================
    GLOBAL RESETS & BASE STYLES
    ============================ */
 .stApp {
