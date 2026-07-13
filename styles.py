@@ -241,48 +241,55 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 0.2rem;
 }
 
+
 /* ============================
-   TABS STYLING
+   TABS STYLING 
    ============================ */
+div[data-testid="stTabs"] [data-baseweb="tab-list"],
 .stTabs [data-baseweb="tab-list"] {
-    gap: 4px;
+    gap: 4px !important;
     background: var(--bg-secondary) !important;
-    border-radius: var(--radius-md);
-    padding: 4px;
-    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md) !important;
+    padding: 4px !important;
+    border: 1px solid var(--border-subtle) !important;
 }
 
+div[data-testid="stTabs"] button[data-baseweb="tab"],
 .stTabs [data-baseweb="tab"] {
-    height: 42px;
-    border-radius: var(--radius-sm);
+    height: 42px !important;
+    border-radius: var(--radius-sm) !important;
     color: var(--text-muted) !important;
-    font-weight: 600;
-    font-size: 0.875rem;
-    transition: var(--transition-fast);
+    font-weight: 600 !important;
+    font-size: 0.875rem !important;
+    transition: var(--transition-fast) !important;
     background: transparent !important;
     border: none !important;
-    padding: 0 1.25rem;
+    padding: 0 1.25rem !important;
 }
 
+/* Hover State override */
+div[data-testid="stTabs"] button[data-baseweb="tab"]:hover,
 .stTabs [data-baseweb="tab"]:hover {
     color: var(--text-primary) !important;
     background: rgba(99, 102, 241, 0.08) !important;
 }
 
+/* Active Tab Selector (Jo Cloud par blue ho jata tha) */
+div[data-testid="stTabs"] button[aria-selected="true"],
 .stTabs [aria-selected="true"] {
     background: var(--accent-indigo) !important;
     color: white !important;
-    box-shadow: 0 2px 8px rgba(99, 102, 241, 0.4);
+    box-shadow: 0 2px 8px rgba(99, 102, 241, 0.4) !important;
 }
 
-.stTabs [data-baseweb="tab-highlight"] {
-    display: none !important;
-}
-
+/* Extra line decoration ko kill karne ke liye */
+div[data-testid="stTabs"] [data-baseweb="tab-highlight"],
+div[data-testid="stTabs"] [data-baseweb="tab-border"],
+.stTabs [data-baseweb="tab-highlight"],
 .stTabs [data-baseweb="tab-border"] {
     display: none !important;
+    background-color: transparent !important;
 }
-
 /* ============================
    BUTTONS
    ============================ */
