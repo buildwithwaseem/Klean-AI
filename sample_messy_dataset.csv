@@ -1,0 +1,516 @@
+CustomerID,Name,Age,Income,SpendingScore,Gender,City,JoinDate,PurchaseAmount,Satisfaction,NumericString
+305.0,Customer_305,74.0,54008.8,18,Female,Seattle,2019-11-01,194.23,Medium,702
+500.0,Customer_500,25.0,60213.73,3,Other,Chicago,2020-05-14,164.05,Low,750
+442.0,Customer_442,64.0,71372.6,99,,Austin,2020-03-17,29.9,High,799
+154.0,Customer_154,20.0,46009.11,60,Male,New York,2019-06-03,88.0,Very High,125
+74.0,Customer_74,21.0,46597.28,73,Other,,2019-03-15,554.05,Very High,203
+132.0,Customer_132,24.0,42591.54,7,Other,Miami,2019-05-12,,Very High,615
+205.0,Customer_205,42.0,,45,Male,Chicago,2019-07-24,263.83,High,673
+10.0,Customer_10,40.0,57796.81,41,Other,New York,2019-01-10,217.56,High,827
+326.0,Customer_326,49.0,58816.31,91,Other,New York,2019-11-22,80.22,Low,700
+248.0,Customer_248,19.0,51264.46,98,Female,Seattle,2019-09-05,471.53,High,373
+466.0,Customer_466,30.0,64239.03,84,,Chicago,2020-04-10,16.16,High,925
+354.0,Customer_354,46.0,48770.68,31,Female,Chicago,2019-12-20,36.02,Very High,976
+290.0,Customer_290,20.0,40336.67,9,Male,Miami,2019-10-17,27.59,Medium,520
+85.0,Customer_85,51.0,67381.25,3,Other,Austin,2019-03-26,101.78,High,773
+11.0,Customer_11,28.0,45073.2,38,,San Francisco,2019-01-11,,High,875
+325.0,Customer_325,54.0,72516.73,40,,Miami,2019-11-21,,Medium,771
+79.0,Customer_79,21.0,74164.97,61,Other,Miami,2019-03-20,480.24,Low,792
+31.0,Customer_31,61.0,61657.29,45,Other,Austin,2019-01-31,32.27,Medium,148
+185.0,Customer_185,49.0,31988.29,96,Male,Seattle,2019-07-04,19.75,High,981
+196.0,Customer_196,45.0,69573.56,10,Female,,2019-07-15,36.31,Low,114
+223.0,Customer_223,68.0,54059.81,59,Male,New York,2019-08-11,232.22,Medium,820
+210.0,Customer_210,,34298.48,62,Other,Chicago,2019-07-29,388.81,Medium,813
+282.0,Customer_282,23.0,42535.75,92,Male,,2019-10-09,210.4,High,695
+209.0,Customer_209,74.0,79429.23,18,Male,Chicago,2019-07-28,686.88,High,689
+125.0,Customer_125,52.0,67864.89,16,Female,Austin,2019-05-05,587.63,High,325
+251.0,Customer_251,40.0,101183.21,41,Other,Austin,2019-09-08,190.27,Very High,969
+77.0,Customer_77,71.0,54686.48,1,Male,New York,2019-03-18,10.23,Medium,894
+383.0,Customer_383,,64815.48,70,Male,Austin,2020-01-18,128.6,High,298
+343.0,Customer_343,66.0,55276.28,53,,Seattle,2019-12-09,6.64,High,784
+324.0,Customer_324,22.0,52664.84,98,Female,Chicago,2019-11-20,419.5,High,228
+245.0,Customer_245,34.0,32272.13,63,Male,Seattle,2019-09-02,18.24,Very High,238
+332.0,Customer_332,65.0,48685.23,80,Male,Austin,2019-11-28,67.18,Low,728
+141.0,Customer_141,41.0,56465.14,93,,San Francisco,2019-05-21,51.27,Very High,430
+10.0,Customer_10,40.0,57796.81,41,Other,New York,2019-01-10,217.56,High,827
+73.0,Customer_73,,42565.07,73,Female,Austin,2019-03-14,114.25,Medium,564
+401.0,Customer_401,65.0,,100,Other,San Francisco,2020-02-05,423.82,Very High,467
+488.0,Customer_488,,71549.53,60,Male,San Francisco,2020-05-02,83.03,Very High,760
+226.0,Customer_226,41.0,62560.7,43,Male,New York,2019-08-14,346.27,Medium,432
+74.0,Customer_74,21.0,46597.28,73,Other,,2019-03-15,554.05,Very High,203
+178.0,Customer_178,,64342.75,42,Other,Seattle,2019-06-27,93.02,Medium,658
+404.0,Customer_404,52.0,77943.25,64,Male,Miami,2020-02-08,225.04,Low,714
+69.0,Customer_69,31.0,68494.0,98,Female,Austin,2019-03-10,51.12,High,218
+156.0,Customer_156,22.0,47113.67,98,Male,Chicago,2019-06-05,315.97,Very High,493
+56.0,Customer_56,67.0,36432.77,98,Male,Seattle,2019-02-25,600.4,Very High,281
+406.0,Customer_406,34.0,232235.16578867243,12,Other,Miami,2020-02-10,119.78,Low,593
+299.0,Customer_299,56.0,30586.86,79,Other,Austin,2019-10-26,245.99,Low,269
+78.0,Customer_78,59.0,56759.91,89,Other,San Francisco,2019-03-19,468.5,Low,601
+469.0,Customer_469,,59892.0,57,,Chicago,2020-04-13,178.46,Low,801
+318.0,Customer_318,69.0,43046.57,62,Male,San Francisco,2019-11-14,348.06,Very High,537
+476.0,Customer_476,31.0,33873.08,34,Male,Miami,2020-04-20,440.82,Very High,481
+91.0,Customer_91,32.0,59862.5,19,Other,Miami,2019-04-01,7.39,High,764
+239.0,Customer_239,19.0,64212.5,52,Female,,2019-08-27,,High,795
+486.0,Customer_486,39.0,60987.04,27,Other,,2020-04-30,287.02,Very High,312
+64.0,Customer_64,,47604.99,20,Female,Miami,2019-03-05,239.25,Medium,287
+458.0,Customer_458,46.0,65694.98,81,Male,Austin,2020-04-02,330.08,Low,914
+71.0,Customer_71,53.0,67192.93,26,Other,Austin,2019-03-12,123.88,High,883
+3.0,Customer_3,46.0,44044.5,37,Female,San Francisco,2019-01-03,139.45,Low,921
+288.0,Customer_288,36.0,66330.87,76,Male,Seattle,2019-10-15,51.43,Low,143
+342.0,Customer_342,28.0,49727.3,89,Female,New York,2019-12-08,,Medium,373
+138.0,Customer_138,65.0,,72,,San Francisco,2019-05-18,313.76,Very High,923
+250.0,Customer_250,,59668.75,90,Male,Chicago,2019-09-07,42.46,Low,410
+195.0,Customer_195,23.0,51265.54,56,Male,Austin,2019-07-14,163.21,Low,837
+173.0,Customer_173,49.0,31083.59,16,,Miami,2019-06-22,19.78,High,201
+83.0,Customer_83,43.0,205073.8399764822,39,Male,New York,2019-03-24,51.04,Low,833
+454.0,Customer_454,60.0,,22,Male,Miami,2020-03-29,119.15,Low,614
+319.0,Customer_319,66.0,63656.08,93,Male,,2019-11-15,15.43,High,859
+34.0,Customer_34,44.0,,85,,Austin,2019-02-03,803.13,Low,749
+427.0,Customer_427,49.0,93600.4,33,Other,Miami,2020-03-02,322.24,High,570
+228.0,Customer_228,,43106.91,39,Female,Miami,2019-08-16,95.29,Very High,622
+1.0,Customer_1,56.0,44270.44,98,Male,Austin,2019-01-01,368.99,High,265
+12.0,Customer_12,28.0,67786.5,34,Female,Chicago,2019-01-12,39.29,High,362
+238.0,Customer_238,56.0,51685.46,71,Other,Austin,2019-08-26,75.39,High,659
+23.0,Customer_23,61.0,36086.74,6,,Miami,2019-01-23,242.77,High,164
+105.0,Customer_105,42.0,56137.07,83,Female,Austin,2019-04-15,84.91,Medium,327
+297.0,Customer_297,50.0,,98,Male,New York,2019-10-24,677.72,Medium,270
+102.0,Customer_102,70.0,64425.18,62,Other,San Francisco,2019-04-12,9.52,Low,472
+80.0,Customer_80,71.0,46126.43,43,Female,Miami,2019-03-21,303.02,Medium,781
+430.0,Customer_430,20.0,54638.12,32,,Miami,2020-03-05,181.43,Very High,727
+432.0,Customer_432,42.0,52834.59,75,Male,Chicago,2020-03-07,,Very High,976
+19.0,Customer_19,39.0,,85,,New York,2019-01-19,142.71,High,639
+177.0,Customer_177,40.0,48249.02,99,Female,Miami,2019-06-26,320.24,Low,668
+232.0,Customer_232,,37031.83,88,Other,New York,2019-08-20,500.72,Very High,681
+378.0,Customer_378,29.0,83151.94,98,Female,San Francisco,2020-01-13,119.74,Medium,381
+133.0,Customer_133,26.0,,14,Female,Chicago,2019-05-13,157.54,Medium,701
+40.0,Customer_40,68.0,33547.88,54,Female,New York,2019-02-09,265.99,High,657
+465.0,Customer_465,41.0,38784.05,59,Female,Seattle,2020-04-09,103.47,Very High,442
+47.0,Customer_47,68.0,40277.37,21,Female,,2019-02-16,71.18,Low,967
+358.0,Customer_358,19.0,58723.31,32,Male,Seattle,2019-12-24,310.99,Medium,365
+278.0,Customer_278,65.0,47693.12,98,Other,Seattle,2019-10-05,52.99,Medium,526
+363.0,Customer_363,53.0,56073.49,82,Other,Austin,2019-12-29,309.06,Low,989
+94.0,Customer_94,40.0,63927.36,49,Other,Austin,2019-04-04,309.41,High,618
+447.0,Customer_447,59.0,,29,Female,Seattle,2020-03-22,270.17,High,749
+204.0,Customer_204,45.0,24411.52,3,Other,Seattle,2019-07-23,,Medium,393
+451.0,Customer_451,57.0,69035.18,47,Other,,2020-03-26,342.97,High,184
+149.0,Customer_149,18.0,68084.81,17,Male,,2019-05-29,123.3,High,189
+221.0,Customer_221,54.0,47292.0,68,Female,New York,2019-08-09,213.5,High,719
+70.0,Customer_70,34.0,59609.49,73,Female,Miami,2019-03-11,94.61,High,255
+254.0,Customer_254,50.0,40666.89,5,Male,Seattle,2019-09-11,267.93,Low,489
+399.0,Customer_399,50.0,,20,Female,Miami,2020-02-03,340.98,Low,320
+168.0,Customer_168,68.0,47962.37,86,Male,New York,2019-06-17,586.13,High,590
+276.0,Customer_276,39.0,63444.54,68,,Seattle,2019-10-03,284.8,Very High,705
+125.0,Customer_125,52.0,67864.89,16,Female,Austin,2019-05-05,587.63,High,325
+195.0,Customer_195,23.0,51265.54,56,Male,Austin,2019-07-14,163.21,Low,837
+321.0,Customer_321,18.0,60567.19,67,Female,,2019-11-17,262.05,Very High,766
+330.0,Customer_330,52.0,48511.63,88,Male,Chicago,2019-11-26,151.57,Low,934
+174.0,Customer_174,21.0,46009.37,42,Male,New York,2019-06-23,84.22,Medium,315
+273.0,Customer_273,69.0,68892.66,13,Other,San Francisco,2019-09-30,14.19,Medium,577
+496.0,Customer_496,71.0,66148.96,27,Male,Seattle,2020-05-10,375.65,High,261
+183.0,Customer_183,,,18,Other,Miami,2019-07-02,43.53,High,893
+269.0,Customer_269,34.0,39441.31,88,Male,New York,2019-09-26,83.22,High,619
+353.0,Customer_353,,60077.45,58,Male,Austin,2019-12-19,83.35,Medium,253
+118.0,Customer_118,25.0,,15,Male,San Francisco,2019-04-28,136.43,Low,158
+394.0,Customer_394,38.0,62072.03,94,Other,New York,2020-01-29,101.1,Medium,183
+333.0,Customer_333,33.0,59346.62,40,Male,New York,2019-11-29,112.14,Medium,705
+456.0,Customer_456,65.0,62340.62,27,Other,Seattle,2020-03-31,101.95,Very High,790
+445.0,Customer_445,19.0,49859.69,15,Other,Chicago,2020-03-20,37.71,High,456
+357.0,Customer_357,35.0,57727.99,10,Male,Seattle,2019-12-23,,Medium,954
+87.0,Customer_87,53.0,74582.18,51,Female,Miami,2019-03-28,127.75,Very High,233
+439.0,Customer_439,41.0,51175.34,29,Other,San Francisco,2020-03-14,437.92,Low,924
+76.0,Customer_76,23.0,64155.55,17,Other,Seattle,2019-03-17,199.48,High,797
+452.0,Customer_452,50.0,74073.33,78,Female,New York,2020-03-27,3542.001863583114,Low,416
+16.0,Customer_16,57.0,67986.33,76,Other,,2019-01-16,98.1,High,127
+211.0,Customer_211,74.0,29449.26,37,Other,Seattle,2019-07-30,25.03,Low,401
+181.0,Customer_181,60.0,56804.43,13,Female,Chicago,2019-06-30,19.61,Very High,785
+398.0,Customer_398,64.0,47331.76,68,Female,Chicago,2020-02-02,66.97,Medium,208
+20.0,Customer_20,70.0,45200.06,27,Male,New York,2019-01-20,257.04,Very High,587
+156.0,Customer_156,22.0,47113.67,98,Male,Chicago,2019-06-05,315.97,Very High,493
+341.0,Customer_341,69.0,472869.3282140904,45,Female,Chicago,2019-12-07,267.55,Low,116
+57.0,Customer_57,26.0,86995.5,55,Male,San Francisco,2019-02-26,45.36,Medium,983
+279.0,Customer_279,33.0,46114.09,11,Female,Seattle,2019-10-06,329.42,High,138
+468.0,Customer_468,74.0,50356.8,19,Female,Austin,2020-04-12,395.73,Very High,641
+85.0,Customer_85,51.0,67381.25,3,Other,Austin,2019-03-26,101.78,High,773
+155.0,Customer_155,18.0,23141.56,45,Female,Seattle,2019-06-04,763.91,Very High,124
+26.0,Customer_26,19.0,70486.98,98,Female,San Francisco,2019-01-26,,High,351
+266.0,Customer_266,72.0,42080.74,82,Other,San Francisco,2019-09-23,959.33,Very High,947
+43.0,Customer_43,69.0,76619.1,53,Male,New York,2019-02-12,12.92,Medium,201
+313.0,Customer_313,24.0,67535.38,77,Male,Austin,2019-11-09,14.16,High,752
+413.0,Customer_413,23.0,49963.23,82,Other,Seattle,2020-02-17,59.73,Low,996
+457.0,Customer_457,56.0,36668.08,67,Other,Miami,2020-04-01,481.89,High,441
+285.0,Customer_285,20.0,51415.78,67,Other,Chicago,2019-10-12,37.04,Medium,953
+127.0,Customer_127,22.0,54714.76,17,Other,,2019-05-07,40.43,Medium,304
+335.0,Customer_335,37.0,68066.87,97,Other,Seattle,2019-12-01,311.33,Low,710
+32.0,Customer_32,42.0,,17,Female,Seattle,2019-02-01,237.76,Low,217
+114.0,Customer_114,26.0,58655.31,25,Female,Seattle,2019-04-24,99.99,Low,603
+256.0,Customer_256,36.0,58051.95,54,Other,Miami,2019-09-13,371.24,Low,719
+219.0,Customer_219,44.0,60498.97,49,Male,San Francisco,2019-08-07,1167.11,Medium,592
+417.0,Customer_417,41.0,51313.85,47,Female,New York,2020-02-21,615.97,Low,382
+58.0,Customer_58,43.0,25718.68,24,Female,Chicago,2019-02-27,166.73,Very High,635
+397.0,Customer_397,45.0,378813.07864329417,22,Other,New York,2020-02-01,339.31,Medium,727
+25.0,Customer_25,55.0,86832.34,40,Male,,2019-01-25,133.34,Medium,632
+18.0,Customer_18,20.0,49982.48,86,Female,Seattle,2019-01-18,414.71,Medium,248
+193.0,Customer_193,74.0,85911.22,57,Female,Seattle,2019-07-12,146.87,Very High,772
+67.0,Customer_67,64.0,60355.23,81,Female,San Francisco,2019-03-08,11.55,Low,932
+287.0,Customer_287,53.0,46348.43,98,Male,Austin,2019-10-14,95.45,Low,185
+423.0,Customer_423,52.0,82734.34,76,Female,Miami,2020-02-27,,Medium,103
+95.0,Customer_95,74.0,42726.69,61,,New York,2019-04-05,,Low,855
+312.0,Customer_312,,46346.62,69,Female,San Francisco,2019-11-08,25.62,High,975
+369.0,Customer_369,65.0,50951.88,12,Male,Chicago,2020-01-04,62.66,Very High,832
+24.0,Customer_24,47.0,68767.93,91,Male,Chicago,2019-01-24,10.85,Medium,455
+272.0,Customer_272,22.0,34258.0,99,Male,San Francisco,2019-09-29,89.38,Low,107
+300.0,Customer_300,35.0,55721.27,38,Female,,2019-10-27,720.73,High,863
+374.0,Customer_374,20.0,41167.52,46,Other,Miami,2020-01-09,185.3,Medium,923
+6.0,Customer_6,25.0,45225.99,18,Other,Seattle,2019-01-06,206.21,Low,954
+117.0,Customer_117,61.0,47934.43,12,Female,Seattle,2019-04-27,195.86,Low,313
+46.0,Customer_46,54.0,,29,Other,Austin,2019-02-15,264.56,Low,948
+186.0,Customer_186,24.0,74165.15,99,Female,Seattle,2019-07-05,88.22,Very High,104
+17.0,Customer_17,41.0,36995.55,87,Female,Miami,2019-01-17,102.94,Medium,425
+478.0,Customer_478,,64090.15,35,Other,Chicago,2020-04-22,92.42,Low,478
+368.0,Customer_368,38.0,47349.75,93,Male,San Francisco,2020-01-03,825.05,High,848
+4.0,Customer_4,32.0,58246.88,75,Other,New York,2019-01-04,26.64,Low,199
+235.0,Customer_235,66.0,44504.12,77,Male,New York,2019-08-23,885.67,Medium,679
+385.0,Customer_385,55.0,,30,Female,Chicago,2020-01-20,154.01,Low,426
+61.0,Customer_61,37.0,59214.88,56,Female,San Francisco,2019-03-02,240.96,Low,508
+111.0,Customer_111,,61193.97,80,Male,Austin,2019-04-21,158.96,High,875
+410.0,Customer_410,46.0,56099.77,65,Other,Chicago,2020-02-14,261.76,Low,989
+421.0,Customer_421,70.0,51535.98,99,,Seattle,2020-02-25,,Very High,635
+30.0,Customer_30,39.0,44384.96,10,Other,Miami,2019-01-30,202.39,Medium,412
+275.0,Customer_275,23.0,34021.49,73,,,2019-10-02,104.95,Medium,594
+303.0,Customer_303,28.0,64578.89,48,Female,Seattle,2019-10-30,365.84,Very High,666
+27.0,Customer_27,38.0,32209.45,12,Female,Miami,2019-01-27,184.33,Low,334
+8.0,Customer_8,56.0,64508.79,42,,New York,2019-01-08,48.98,Very High,848
+182.0,Customer_182,,62716.58,13,Female,New York,2019-07-01,116.35,High,341
+395.0,Customer_395,47.0,83230.37,37,Other,San Francisco,2020-01-30,9.08,Medium,498
+109.0,Customer_109,32.0,42617.54,81,Other,Seattle,2019-04-19,54.04,Very High,259
+38.0,Customer_38,32.0,36283.25,64,Male,Chicago,2019-02-07,93.51,Low,152
+158.0,Customer_158,72.0,57255.91,37,,Chicago,2019-06-07,83.04,High,400
+482.0,Customer_482,,80446.85,12,Female,,2020-04-26,143.36,Medium,650
+119.0,Customer_119,41.0,33278.73,59,Male,Chicago,2019-04-29,777.96,Low,743
+115.0,Customer_115,41.0,58674.5,82,Other,San Francisco,2019-04-25,351.9,Very High,555
+267.0,Customer_267,28.0,77846.86,62,Female,San Francisco,2019-09-24,15.09,High,549
+176.0,Customer_176,54.0,55704.71,55,Female,Miami,2019-06-25,99.1,High,799
+422.0,Customer_422,48.0,,52,Male,Seattle,2020-02-26,353.91,Very High,635
+350.0,Customer_350,,66562.98,7,Other,Austin,2019-12-16,483.1,Medium,213
+145.0,Customer_145,57.0,76767.15,39,Male,Chicago,2019-05-25,218.24,Medium,377
+381.0,Customer_381,72.0,,88,Male,San Francisco,2020-01-16,126.88,Very High,208
+392.0,Customer_392,44.0,58358.26,60,Female,Chicago,2020-01-27,,Medium,890
+212.0,Customer_212,69.0,54166.78,25,Other,Chicago,2019-07-31,269.21,High,322
+322.0,Customer_322,65.0,45940.22,56,Female,Chicago,2019-11-18,182.66,Medium,645
+495.0,Customer_495,32.0,34777.22,79,Male,San Francisco,2020-05-09,,Very High,542
+375.0,Customer_375,34.0,68044.09,27,Other,New York,2020-01-10,,Very High,760
+142.0,Customer_142,54.0,43404.85,82,Other,Miami,2019-05-22,375.36,Very High,242
+377.0,Customer_377,65.0,61201.52,95,Female,New York,2020-01-12,,High,687
+68.0,Customer_68,52.0,44606.36,62,Female,Miami,2019-03-09,383.09,High,951
+409.0,Customer_409,47.0,67347.56,10,,Austin,2020-02-13,,Very High,935
+169.0,Customer_169,49.0,29302.98,25,Other,Seattle,2019-06-18,164.28,High,932
+451.0,Customer_451,57.0,69035.18,47,Other,,2020-03-26,342.97,High,184
+434.0,Customer_434,48.0,46797.12,87,Female,Miami,2020-03-09,,Low,962
+229.0,Customer_229,49.0,53394.54,56,Male,Miami,2019-08-17,725.8,Very High,962
+194.0,Customer_194,70.0,81330.11,16,Other,,2019-07-13,118.7,Very High,521
+82.0,Customer_82,35.0,51967.11,25,Female,Austin,2019-03-23,11.8,Very High,274
+110.0,Customer_110,62.0,50179.21,87,Male,Miami,2019-04-20,263.69,Medium,430
+429.0,Customer_429,50.0,55208.94,79,Female,Chicago,2020-03-04,19.36,Medium,347
+146.0,Customer_146,39.0,69389.06,99,Other,Miami,2019-05-26,48.69,Very High,332
+93.0,Customer_93,31.0,56454.94,59,,Austin,2019-04-03,64.49,Low,154
+153.0,Customer_153,31.0,42404.17,99,Other,Miami,2019-06-02,23.74,Very High,540
+480.0,Customer_480,32.0,81321.91,25,Female,New York,2020-04-24,,High,985
+249.0,Customer_249,45.0,63648.35,57,Male,Chicago,2019-09-06,269.16,High,118
+84.0,Customer_84,61.0,,35,Other,Austin,2019-03-25,28.16,Very High,844
+104.0,Customer_104,43.0,41541.18,88,Female,Seattle,2019-04-14,165.1,Very High,746
+166.0,Customer_166,59.0,82471.88,4,Female,New York,2019-06-15,35.26,Very High,962
+164.0,Customer_164,32.0,62378.79,39,Other,San Francisco,2019-06-13,26.99,Low,459
+200.0,Customer_200,37.0,65290.77,5,Other,San Francisco,2019-07-19,,Very High,376
+246.0,Customer_246,66.0,75503.11,54,Other,Austin,2019-09-03,253.94,High,456
+75.0,Customer_75,19.0,66209.4,40,Male,,2019-03-16,244.85,Low,703
+317.0,Customer_317,74.0,17925.33,96,,San Francisco,2019-11-13,66.77,High,364
+230.0,Customer_230,49.0,39471.37,63,Other,Chicago,2019-08-18,82.15,Medium,767
+485.0,Customer_485,40.0,46826.21,80,Male,Miami,2020-04-29,9.16,High,121
+120.0,Customer_120,28.0,33888.04,26,Other,New York,2019-04-30,31.32,Very High,715
+387.0,Customer_387,62.0,91686.28,74,Male,Miami,2020-01-22,5331.872972522742,Low,651
+443.0,Customer_443,39.0,73691.28,13,,Chicago,2020-03-18,24.6,Low,665
+262.0,Customer_262,,68224.6,20,Female,Seattle,2019-09-19,0.76,Very High,372
+365.0,Customer_365,,62184.7,2,Other,New York,2019-12-31,60.95,High,500
+412.0,Customer_412,70.0,35573.82,90,Other,New York,2020-02-16,222.3,High,520
+336.0,Customer_336,41.0,,59,Male,,2019-12-02,170.36,Low,724
+263.0,Customer_263,49.0,54880.41,61,Male,Miami,2019-09-20,228.93,Low,718
+481.0,Customer_481,,23771.06,24,,Seattle,2020-04-25,149.23,Very High,839
+419.0,Customer_419,66.0,14546.7,76,,New York,2020-02-23,,Medium,288
+395.0,Customer_395,47.0,83230.37,37,Other,San Francisco,2020-01-30,9.08,Medium,498
+281.0,Customer_281,26.0,55727.82,67,Female,New York,2019-10-08,458.22,High,286
+37.0,Customer_37,,51211.48,46,Female,New York,2019-02-06,146.92,Very High,914
+197.0,Customer_197,45.0,64680.64,30,Other,Seattle,2019-07-16,190.11,Low,835
+140.0,Customer_140,40.0,55188.89,87,Other,New York,2019-05-20,189.81,Low,533
+376.0,Customer_376,50.0,75334.57,17,Female,New York,2020-01-11,54.59,High,198
+494.0,Customer_494,23.0,,8,Other,New York,2020-05-08,181.26,Low,131
+292.0,Customer_292,37.0,66270.81,40,Male,San Francisco,2019-10-19,324.26,Low,647
+362.0,Customer_362,58.0,42158.74,31,Other,Miami,2019-12-28,53.36,Very High,204
+60.0,Customer_60,19.0,63824.76,69,Male,Miami,2019-03-01,36.14,Low,270
+473.0,Customer_473,25.0,47159.15,58,Male,New York,2020-04-17,173.15,Medium,510
+112.0,Customer_112,42.0,46544.13,70,,New York,2019-04-22,27.39,Low,324
+90.0,Customer_90,65.0,50346.0,12,Female,Chicago,2019-03-31,9.12,Very High,600
+418.0,Customer_418,46.0,50909.15,29,Other,Austin,2020-02-22,255.59,High,139
+7.0,Customer_7,38.0,87159.16,85,Male,Seattle,2019-01-07,303.19,Medium,272
+372.0,Customer_372,25.0,,96,Female,Miami,2020-01-07,0.59,High,355
+355.0,Customer_355,35.0,64491.73,23,Female,Chicago,2019-12-21,,Very High,503
+347.0,Customer_347,,395684.3338455339,27,,Miami,2019-12-13,5.09,Very High,190
+159.0,Customer_159,31.0,60126.34,43,Other,San Francisco,2019-06-08,411.36,High,438
+151.0,Customer_151,54.0,87847.04,31,Female,Chicago,2019-05-31,68.66,Medium,298
+393.0,Customer_393,51.0,43142.88,79,Male,San Francisco,2020-01-28,,Low,973
+39.0,Customer_39,64.0,79486.17,2,Other,Miami,2019-02-08,26.11,High,685
+323.0,Customer_323,29.0,56298.85,40,Female,San Francisco,2019-11-19,13.33,High,598
+199.0,Customer_199,61.0,40526.15,84,Male,Austin,2019-07-18,454.97,Low,221
+450.0,Customer_450,34.0,81284.06,2,Female,Seattle,2020-03-25,,Low,714
+147.0,Customer_147,44.0,87297.74,18,Female,San Francisco,2019-05-27,20.53,Medium,628
+405.0,Customer_405,66.0,446901.0723340804,17,Other,Austin,2020-02-09,9.18,Medium,657
+148.0,Customer_148,,43489.79,59,Male,Miami,2019-05-28,396.08,Low,670
+315.0,Customer_315,43.0,62947.06,40,,New York,2019-11-11,9.44,Medium,109
+490.0,Customer_490,39.0,57254.53,89,,Austin,2020-05-04,95.26,Low,371
+124.0,Customer_124,52.0,77130.34,10,Female,Chicago,2019-05-04,73.84,Very High,709
+403.0,Customer_403,21.0,29613.03,91,Male,San Francisco,2020-02-07,6.02,Very High,211
+97.0,Customer_97,38.0,,74,Female,Miami,2019-04-07,112.03,Medium,737
+144.0,Customer_144,,62469.97,94,Female,Seattle,2019-05-24,30.39,Medium,639
+240.0,Customer_240,20.0,66362.62,4,Other,Austin,2019-08-28,342.13,High,931
+407.0,Customer_407,61.0,39818.43,22,Other,Austin,2020-02-11,530.22,Very High,604
+98.0,Customer_98,33.0,36787.17,57,Female,Seattle,2019-04-08,372.59,High,111
+361.0,Customer_361,33.0,67455.04,39,Female,San Francisco,2019-12-27,28.24,Medium,140
+123.0,Customer_123,25.0,59663.61,32,Other,Chicago,2019-05-03,82.58,High,256
+184.0,Customer_184,30.0,38130.37,32,Male,New York,2019-07-03,41.34,High,852
+203.0,Customer_203,72.0,37251.12,49,Female,Miami,2019-07-22,6.79,High,489
+247.0,Customer_247,19.0,79674.52,74,Male,Miami,2019-09-04,108.99,Medium,700
+483.0,Customer_483,19.0,58165.26,18,,Austin,2020-04-27,,Very High,627
+306.0,Customer_306,42.0,36834.76,70,Male,New York,2019-11-02,163.83,Very High,889
+362.0,Customer_362,58.0,42158.74,31,Other,Miami,2019-12-28,53.36,Very High,204
+308.0,Customer_308,40.0,55710.98,60,Other,New York,2019-11-04,152.15,Medium,254
+408.0,Customer_408,45.0,30177.15,17,Other,Seattle,2020-02-12,36.11,Low,574
+291.0,Customer_291,36.0,56489.98,79,Female,Austin,2019-10-18,,Low,173
+126.0,Customer_126,50.0,52600.92,71,Female,Miami,2019-05-06,684.42,Low,511
+311.0,Customer_311,59.0,70094.39,28,Male,New York,2019-11-07,49.29,Very High,550
+224.0,Customer_224,59.0,69327.13,37,Male,Chicago,2019-08-12,19.53,Medium,851
+441.0,Customer_441,49.0,15235.45,81,Other,Seattle,2020-03-16,139.49,Very High,860
+220.0,Customer_220,26.0,243828.96966239606,88,Female,Seattle,2019-08-08,780.24,High,334
+130.0,Customer_130,58.0,50670.12,85,Male,Miami,2019-05-10,108.25,Low,570
+433.0,Customer_433,59.0,46395.07,58,Male,New York,2020-03-08,103.58,High,680
+491.0,Customer_491,66.0,49545.82,17,Other,New York,2020-05-05,,Low,670
+337.0,Customer_337,71.0,73018.21,59,Other,Chicago,2019-12-03,215.07,High,458
+389.0,Customer_389,71.0,56640.92,98,Female,Seattle,2020-01-24,371.48,Low,504
+298.0,Customer_298,57.0,,88,Other,Seattle,2019-10-25,27.27,Very High,827
+366.0,Customer_366,50.0,60004.93,78,Male,,2020-01-01,63.37,Medium,377
+302.0,Customer_302,18.0,41435.25,5,Female,San Francisco,2019-10-29,240.34,Medium,421
+295.0,Customer_295,69.0,45060.64,11,Other,San Francisco,2019-10-22,109.44,Medium,255
+378.0,Customer_378,29.0,83151.94,98,Female,San Francisco,2020-01-13,119.74,Medium,381
+349.0,Customer_349,52.0,,60,Other,Chicago,2019-12-15,17.16,Medium,423
+113.0,Customer_113,24.0,42666.69,72,Other,San Francisco,2019-04-23,427.64,High,828
+180.0,Customer_180,,52864.31,30,Female,Chicago,2019-06-29,101.29,Medium,588
+453.0,Customer_453,26.0,65825.08,84,Male,Chicago,2020-03-28,152.07,Low,311
+348.0,Customer_348,37.0,21832.97,38,Male,Austin,2019-12-14,237.13,Medium,181
+339.0,Customer_339,50.0,24428.13,41,Male,Seattle,2019-12-05,,High,957
+498.0,Customer_498,54.0,52240.25,50,Male,Austin,2020-05-12,368.68,Very High,353
+371.0,Customer_371,73.0,48335.6,66,Other,Austin,2020-01-06,444.16,High,808
+234.0,Customer_234,66.0,55528.95,62,Male,Austin,2019-08-22,285.08,Very High,371
+461.0,Customer_461,43.0,65664.4,93,Female,San Francisco,2020-04-05,339.35,Low,610
+463.0,Customer_463,67.0,49585.51,47,Female,New York,2020-04-07,98.01,Low,850
+165.0,Customer_165,43.0,35196.5,15,Other,San Francisco,2019-06-14,215.54,Medium,167
+137.0,Customer_137,,65352.16,48,,Austin,2019-05-17,156.42,High,744
+198.0,Customer_198,61.0,75529.47,25,,Miami,2019-07-17,90.23,Low,672
+259.0,Customer_259,61.0,45301.41,49,Male,San Francisco,2019-09-16,268.87,Very High,670
+233.0,Customer_233,69.0,84470.88,11,Male,Austin,2019-08-21,23.48,High,780
+116.0,Customer_116,18.0,47395.85,89,Other,New York,2019-04-26,309.96,Very High,144
+121.0,Customer_121,68.0,44223.34,26,Male,,2019-05-01,258.31,Medium,294
+370.0,Customer_370,37.0,270509.3896435756,39,Male,New York,2020-01-05,104.5,Low,679
+225.0,Customer_225,61.0,40214.11,61,Other,Seattle,2019-08-13,5.96,Very High,430
+415.0,Customer_415,58.0,51106.13,14,Male,San Francisco,2020-02-19,70.4,High,466
+356.0,Customer_356,63.0,89060.39,42,Other,San Francisco,2019-12-22,,Very High,727
+128.0,Customer_128,59.0,39962.06,23,,Austin,2019-05-08,4.46,High,178
+286.0,Customer_286,37.0,41386.55,25,Female,Seattle,2019-10-13,98.78,Very High,192
+424.0,Customer_424,50.0,71898.48,7,Other,Seattle,2020-02-28,6187.012406046108,High,934
+108.0,Customer_108,46.0,52794.14,21,Female,San Francisco,2019-04-18,18.08,Low,556
+382.0,Customer_382,39.0,77440.66,35,Other,Seattle,2020-01-17,118.65,Medium,799
+334.0,Customer_334,20.0,,92,Male,Seattle,2019-11-30,62.33,Low,774
+134.0,Customer_134,25.0,77991.08,79,Other,Miami,2019-05-14,,Low,203
+375.0,Customer_375,34.0,68044.09,27,Other,New York,2020-01-10,,Very High,760
+45.0,Customer_45,20.0,72447.46,26,Female,San Francisco,2019-02-14,290.99,Low,869
+477.0,Customer_477,29.0,31650.56,61,Female,Chicago,2020-04-21,2.48,Very High,595
+66.0,Customer_66,25.0,67744.03,99,Other,Chicago,2019-03-07,305.19,Medium,329
+284.0,Customer_284,46.0,54246.43,9,Female,Austin,2019-10-11,0.04,High,853
+86.0,Customer_86,,,44,Male,Chicago,2019-03-27,511.81,High,520
+243.0,Customer_243,66.0,50874.22,20,Female,Miami,2019-08-31,56.03,Medium,545
+187.0,Customer_187,68.0,59984.71,39,Male,San Francisco,2019-07-06,283.34,High,695
+396.0,Customer_396,50.0,75181.3,93,,New York,2020-01-31,65.1,Very High,853
+160.0,Customer_160,56.0,83142.56,40,Female,Chicago,2019-06-09,157.42,Medium,366
+13.0,Customer_13,41.0,43112.19,17,Male,Seattle,2019-01-13,5.9,Low,903
+36.0,Customer_36,45.0,39634.19,62,Male,New York,2019-02-05,348.74,Medium,143
+29.0,Customer_29,29.0,74003.67,71,Female,,2019-01-29,77.75,Low,624
+171.0,Customer_171,66.0,53281.9,82,Female,New York,2019-06-20,163.28,Very High,786
+143.0,Customer_143,52.0,55367.65,95,Male,San Francisco,2019-05-23,111.94,Low,899
+411.0,Customer_411,63.0,35650.59,22,Male,Miami,2020-02-15,427.85,Very High,370
+437.0,Customer_437,57.0,44307.31,46,Other,Seattle,2020-03-12,207.75,High,929
+222.0,Customer_222,50.0,39111.8,12,Male,Chicago,2019-08-10,7665.964585245091,Medium,260
+96.0,Customer_96,57.0,86385.81,17,Female,New York,2019-04-06,92.79,High,924
+52.0,Customer_52,35.0,49220.3,59,Male,San Francisco,2019-02-21,231.62,Very High,210
+241.0,Customer_241,66.0,47042.48,59,Male,Austin,2019-08-29,423.76,Medium,798
+384.0,Customer_384,47.0,54166.23,83,,Austin,2020-01-19,178.74,High,402
+352.0,Customer_352,52.0,72156.31,45,Other,Chicago,2019-12-18,29.59,Very High,157
+391.0,Customer_391,,62215.14,28,,San Francisco,2020-01-26,124.3,Low,231
+179.0,Customer_179,62.0,38985.69,34,Female,Austin,2019-06-28,120.19,High,258
+42.0,Customer_42,72.0,56961.11,51,Male,Seattle,2019-02-11,,Very High,776
+449.0,Customer_449,43.0,38341.36,32,Female,Chicago,2020-03-24,353.24,Low,490
+400.0,Customer_400,22.0,53113.2,96,Female,Austin,2020-02-04,151.69,High,652
+207.0,Customer_207,50.0,77535.36,30,Other,San Francisco,2019-07-26,75.13,Low,545
+283.0,Customer_283,33.0,59056.85,29,Female,New York,2019-10-10,414.65,Very High,699
+359.0,Customer_359,71.0,321559.1427725989,53,Other,Miami,2019-12-25,204.11,Medium,414
+255.0,Customer_255,18.0,30903.31,5,Male,Seattle,2019-09-12,328.18,High,359
+425.0,Customer_425,69.0,50966.67,29,Male,Miami,2020-02-29,59.33,High,389
+5.0,Customer_5,60.0,55683.58,70,Female,Miami,2019-01-05,97.35,Medium,720
+257.0,Customer_257,19.0,43654.74,47,Male,Seattle,2019-09-14,,Low,982
+462.0,Customer_462,52.0,61663.95,21,Male,San Francisco,2020-04-06,13.95,Medium,519
+101.0,Customer_101,64.0,388026.00456269935,12,Other,Miami,2019-04-11,383.59,Low,654
+227.0,Customer_227,32.0,47046.14,70,Male,Austin,2019-08-15,5052.493568486896,Low,149
+440.0,Customer_440,67.0,77559.89,4,Female,Seattle,2020-03-15,182.61,Low,608
+214.0,Customer_214,58.0,54509.58,65,,San Francisco,2019-08-02,891.63,Very High,102
+435.0,Customer_435,,,26,Male,Austin,2020-03-10,277.14,Low,353
+172.0,Customer_172,69.0,73567.24,33,Male,,2019-06-21,160.82,Low,663
+99.0,Customer_99,62.0,72371.66,55,Female,,2019-04-09,62.43,Very High,627
+293.0,Customer_293,49.0,29958.92,25,Other,Austin,2019-10-20,130.43,High,712
+216.0,Customer_216,56.0,53663.2,79,Female,San Francisco,2019-08-04,26.12,Very High,192
+62.0,Customer_62,45.0,45659.51,33,Female,,2019-03-03,176.29,Low,839
+48.0,Customer_48,24.0,61931.55,11,Female,Austin,2019-02-17,38.11,Low,497
+33.0,Customer_33,66.0,41096.04,26,,New York,2019-02-02,274.03,Medium,153
+268.0,Customer_268,73.0,63083.65,17,Female,Seattle,2019-09-25,16.04,Medium,346
+328.0,Customer_328,26.0,48821.85,33,Male,Austin,2019-11-24,902.49,Low,426
+201.0,Customer_201,47.0,70876.37,65,Male,Seattle,2019-07-20,141.47,Very High,657
+484.0,Customer_484,49.0,53549.3,15,Female,Austin,2020-04-28,207.55,Medium,603
+28.0,Customer_28,50.0,,53,Female,San Francisco,2019-01-28,4.64,High,326
+426.0,Customer_426,38.0,38402.11,11,Other,Miami,2020-03-01,218.9,Low,532
+231.0,Customer_231,41.0,46695.26,46,Male,Austin,2019-08-19,70.33,Low,591
+261.0,Customer_261,49.0,80307.12,99,Female,,2019-09-18,75.64,Very High,453
+379.0,Customer_379,68.0,43393.16,60,Female,,2020-01-14,128.1,Medium,982
+289.0,Customer_289,43.0,62513.76,42,,San Francisco,2019-10-16,96.13,Very High,236
+163.0,Customer_163,32.0,41523.78,87,Female,Austin,2019-06-12,3.62,High,555
+438.0,Customer_438,63.0,56596.45,98,Other,San Francisco,2020-03-13,207.95,Medium,780
+139.0,Customer_139,72.0,58361.39,59,Other,Austin,2019-05-19,159.19,Low,707
+63.0,Customer_63,64.0,51878.17,36,Other,San Francisco,2019-03-04,176.61,Low,477
+136.0,Customer_136,51.0,61025.68,9,Male,,2019-05-16,103.5,High,730
+129.0,Customer_129,56.0,54722.3,26,Male,,2019-05-09,254.6,Medium,223
+493.0,Customer_493,,59617.03,53,Male,Miami,2020-05-07,313.77,Low,301
+9.0,Customer_9,36.0,24622.86,100,Female,,2019-01-09,29.66,Very High,261
+327.0,Customer_327,72.0,60064.04,77,Male,New York,2019-11-23,83.23,High,704
+479.0,Customer_479,40.0,35793.56,64,Other,San Francisco,2020-04-23,5.56,High,146
+65.0,Customer_65,61.0,46159.53,83,Female,New York,2019-03-06,530.76,Low,957
+301.0,Customer_301,57.0,58895.84,72,Other,Miami,2019-10-28,349.78,Medium,971
+15.0,Customer_15,53.0,62574.81,25,Male,Chicago,2019-01-15,,Medium,102
+157.0,Customer_157,43.0,43613.01,3,Female,San Francisco,2019-06-06,137.53,Medium,606
+41.0,Customer_41,61.0,48399.33,65,Other,Austin,2019-02-10,,Medium,624
+380.0,Customer_380,39.0,36330.18,64,Female,San Francisco,2020-01-15,194.85,Medium,502
+474.0,Customer_474,63.0,70735.14,38,Female,San Francisco,2020-04-18,284.88,Very High,305
+416.0,Customer_416,54.0,,64,Male,Miami,2020-02-20,253.47,High,379
+217.0,Customer_217,23.0,35432.96,73,Female,Miami,2019-08-05,258.33,Medium,619
+280.0,Customer_280,50.0,42040.14,56,Other,Austin,2019-10-07,12.18,Medium,692
+448.0,Customer_448,19.0,43332.75,75,Male,Miami,2020-03-23,151.0,High,779
+487.0,Customer_487,68.0,54435.48,72,Female,San Francisco,2020-05-01,586.16,Low,409
+338.0,Customer_338,73.0,48878.87,48,Female,,2019-12-04,,Low,702
+237.0,Customer_237,29.0,53315.08,25,,Austin,2019-08-25,3511.6608976703155,Medium,351
+208.0,Customer_208,18.0,56111.42,68,Male,Austin,2019-07-27,320.49,Low,309
+213.0,Customer_213,30.0,60760.98,48,Other,San Francisco,2019-08-01,77.03,High,833
+296.0,Customer_296,58.0,63558.98,59,Female,Chicago,2019-10-23,5.51,Very High,354
+471.0,Customer_471,37.0,68860.41,3,Male,San Francisco,2020-04-15,96.98,Low,636
+252.0,Customer_252,54.0,71793.62,3,Other,,2019-09-09,114.36,Low,985
+105.0,Customer_105,42.0,56137.07,83,Female,Austin,2019-04-15,84.91,Medium,327
+472.0,Customer_472,18.0,52226.47,1,Female,Chicago,2020-04-16,119.61,Low,211
+304.0,Customer_304,45.0,30077.2,90,Female,San Francisco,2019-10-31,801.25,Very High,555
+351.0,Customer_351,42.0,32821.21,5,Male,Chicago,2019-12-17,124.89,Very High,868
+270.0,Customer_270,55.0,52144.92,3,Female,Seattle,2019-09-27,402.56,Very High,240
+202.0,Customer_202,28.0,28618.91,94,Male,Austin,2019-07-21,182.32,High,552
+162.0,Customer_162,26.0,46346.45,55,Other,Miami,2019-06-11,280.57,Medium,792
+44.0,Customer_44,74.0,33462.07,36,Male,Austin,2019-02-13,323.26,Very High,891
+218.0,Customer_218,25.0,,15,Female,Chicago,2019-08-06,78.02,Low,527
+402.0,Customer_402,36.0,71412.87,68,Other,New York,2020-02-06,171.03,Medium,246
+191.0,Customer_191,59.0,,93,Male,New York,2019-07-10,43.59,High,347
+310.0,Customer_310,47.0,49231.67,77,Other,New York,2019-11-06,119.51,Low,448
+260.0,Customer_260,43.0,,9,Other,Miami,2019-09-17,22.49,Low,224
+106.0,Customer_106,62.0,,8,Other,,2019-04-16,75.72,Very High,722
+54.0,Customer_54,42.0,64931.96,99,Male,Miami,2019-02-23,275.05,Low,116
+390.0,Customer_390,25.0,65886.5,63,Male,Austin,2020-01-25,67.07,High,561
+2.0,Customer_2,69.0,65193.97,87,Male,Chicago,2019-01-02,127.1,Very High,558
+455.0,Customer_455,71.0,47132.2,75,Female,Chicago,2020-03-30,17.63,Very High,483
+499.0,Customer_499,50.0,55276.51,71,Other,Chicago,2020-05-13,173.61,Low,620
+50.0,Customer_50,26.0,45996.75,11,,Seattle,2019-02-19,137.1,High,774
+420.0,Customer_420,63.0,54185.58,36,Female,San Francisco,2020-02-24,0.42,Very High,263
+81.0,Customer_81,46.0,63206.46,42,Male,New York,2019-03-22,1.41,High,798
+206.0,Customer_206,56.0,65763.13,14,Male,Miami,2019-07-25,343.38,High,697
+35.0,Customer_35,59.0,6380.99,92,Male,Chicago,2019-02-04,47.1,Low,664
+431.0,Customer_431,35.0,57971.27,51,Female,Miami,2020-03-06,159.52,Very High,378
+264.0,Customer_264,72.0,77199.16,35,Female,Miami,2019-09-21,36.58,High,910
+428.0,Customer_428,40.0,55888.28,6,Female,Austin,2020-03-03,4808.330415975214,Low,280
+367.0,Customer_367,,,77,Male,San Francisco,2020-01-02,128.07,Medium,453
+92.0,Customer_92,25.0,,44,Other,Seattle,2019-04-02,64.52,Very High,132
+340.0,Customer_340,41.0,39878.71,13,Female,Chicago,2019-12-06,134.03,Low,817
+489.0,Customer_489,39.0,56713.41,46,Other,Miami,2020-05-03,145.65,High,852
+53.0,Customer_53,21.0,56702.76,39,Female,Chicago,2019-02-22,944.94,Low,713
+346.0,Customer_346,55.0,51713.49,63,Female,San Francisco,2019-12-12,623.92,High,792
+265.0,Customer_265,21.0,56160.52,50,Other,Seattle,2019-09-22,,Low,344
+242.0,Customer_242,54.0,,72,Female,Austin,2019-08-30,149.07,Very High,189
+14.0,Customer_14,70.0,53278.95,37,Female,San Francisco,2019-01-14,,Very High,373
+316.0,Customer_316,65.0,76623.53,45,Other,San Francisco,2019-11-12,167.48,High,839
+89.0,Customer_89,48.0,65229.29,98,,Austin,2019-03-30,66.46,Low,835
+388.0,Customer_388,68.0,56938.32,96,Male,Seattle,2020-01-23,358.33,High,744
+274.0,Customer_274,51.0,83641.25,89,Other,Seattle,2019-10-01,288.07,Medium,451
+167.0,Customer_167,30.0,72691.6,93,Female,San Francisco,2019-06-16,59.01,High,511
+329.0,Customer_329,58.0,47685.91,6,Male,Seattle,2019-11-25,196.79,High,852
+69.0,Customer_69,31.0,68494.0,98,Female,Austin,2019-03-10,51.12,High,218
+135.0,Customer_135,29.0,53368.6,7,Other,Austin,2019-05-15,51.6,Medium,492
+307.0,Customer_307,67.0,45222.46,37,Female,New York,2019-11-03,197.9,Medium,712
+497.0,Customer_497,60.0,57562.98,46,Female,New York,2020-05-11,151.47,Medium,866
+320.0,Customer_320,19.0,51954.32,58,Male,Seattle,2019-11-16,,Medium,346
+244.0,Customer_244,,20471.18,93,Female,San Francisco,2019-09-01,23.97,Low,431
+55.0,Customer_55,31.0,78790.25,54,Male,Austin,2019-02-24,269.4,Very High,879
+364.0,Customer_364,50.0,47835.14,100,Male,,2019-12-30,706.49,Very High,292
+51.0,Customer_51,56.0,,36,Female,,2019-02-20,39.26,Medium,486
+470.0,Customer_470,62.0,36233.3,69,Male,San Francisco,2020-04-14,51.31,Medium,968
+175.0,Customer_175,47.0,55078.66,66,Other,Miami,2019-06-24,66.38,Low,537
+446.0,Customer_446,44.0,49428.39,29,Male,Austin,2020-03-21,203.15,Medium,924
+190.0,Customer_190,19.0,56735.12,62,Female,Austin,2019-07-09,205.82,Very High,558
+407.0,Customer_407,61.0,39818.43,22,Other,Austin,2020-02-11,530.22,Very High,604
+464.0,Customer_464,42.0,72389.95,80,Male,Austin,2020-04-08,381.89,Low,268
+188.0,Customer_188,39.0,43772.7,46,Male,Seattle,2019-07-07,64.71,Low,919
+170.0,Customer_170,56.0,75308.09,13,Male,Miami,2019-06-19,277.84,High,148
+59.0,Customer_59,70.0,52723.22,22,Male,Miami,2019-02-28,778.9,Low,640
+475.0,Customer_475,33.0,44434.84,15,,Seattle,2020-04-19,20.82,High,284
+49.0,Customer_49,38.0,57985.9,40,Male,Chicago,2019-02-18,202.98,High,237
+345.0,Customer_345,53.0,59903.91,100,Female,,2019-12-11,,High,960
+236.0,Customer_236,69.0,58209.7,98,Male,Seattle,2019-08-24,,Low,966
+253.0,Customer_253,49.0,53081.24,6,Female,Miami,2019-09-10,172.19,Low,253
+22.0,Customer_22,,,31,Other,Austin,2019-01-22,51.09,Medium,537
+314.0,Customer_314,33.0,38054.4,81,Male,Seattle,2019-11-10,61.12,Very High,272
+460.0,Customer_460,72.0,,92,Female,Seattle,2020-04-04,125.7,High,137
+161.0,Customer_161,44.0,69256.36,90,Female,,2019-06-10,284.12,Very High,560
+277.0,Customer_277,28.0,45240.36,14,Female,San Francisco,2019-10-04,467.87,Very High,932
+444.0,Customer_444,40.0,23899.15,39,Other,San Francisco,2020-03-19,33.52,Very High,425
+192.0,Customer_192,62.0,56012.78,62,Other,Austin,2019-07-11,454.52,Low,665
+386.0,Customer_386,55.0,38117.66,71,Female,San Francisco,2020-01-21,385.02,Very High,253
+294.0,Customer_294,24.0,63150.4,5,Female,Austin,2019-10-21,,High,611
+414.0,Customer_414,52.0,80035.32,50,,Chicago,2020-02-18,224.54,Low,806
+492.0,Customer_492,69.0,54145.82,93,Female,Miami,2020-05-06,97.51,Medium,898
+344.0,Customer_344,25.0,80146.56,42,Female,Austin,2019-12-10,405.83,Low,215
+258.0,Customer_258,70.0,33666.19,87,Male,,2019-09-15,6.32,Very High,896
+309.0,Customer_309,48.0,42093.8,48,Male,New York,2019-11-05,201.62,Medium,988
+150.0,Customer_150,52.0,57750.13,14,Female,Miami,2019-05-30,276.69,High,591
+131.0,Customer_131,45.0,59840.78,86,Other,,2019-05-11,,High,317
+152.0,Customer_152,64.0,42875.53,24,Male,Austin,2019-06-01,309.26,Very High,461
+360.0,Customer_360,52.0,42252.33,30,Male,Miami,2019-12-26,225.67,Very High,814
+100.0,Customer_100,,66874.94,47,Other,Miami,2019-04-10,34.01,High,819
+373.0,Customer_373,,66354.83,13,Female,Austin,2020-01-08,8.12,Very High,750
+88.0,Customer_88,31.0,55315.06,94,Female,Seattle,2019-03-29,2.7,High,490
+459.0,Customer_459,59.0,51395.12,56,Other,New York,2020-04-03,48.68,Very High,943
+331.0,Customer_331,36.0,60916.78,19,Male,Seattle,2019-11-27,364.22,Low,503
+215.0,Customer_215,20.0,23988.37,53,Other,New York,2019-08-03,132.86,Medium,617
+467.0,Customer_467,24.0,63896.52,6,Other,New York,2020-04-11,156.41,High,405
+122.0,Customer_122,,51798.29,47,Other,New York,2019-05-02,,High,588
+372.0,Customer_372,25.0,,96,Female,Miami,2020-01-07,0.59,High,355
+21.0,Customer_21,,81481.81,57,Female,Chicago,2019-01-21,21.99,High,921
+189.0,Customer_189,45.0,78267.28,29,Female,,2019-07-08,,High,460
+72.0,Customer_72,67.0,64444.43,66,Female,San Francisco,2019-03-13,131.13,Medium,786
+107.0,Customer_107,58.0,69626.8,95,Female,Austin,2019-04-17,,Medium,406
+271.0,Customer_271,,41865.73,32,Male,Seattle,2019-09-28,7009.1294993775755,High,461
+436.0,Customer_436,20.0,46848.63,98,Female,Seattle,2020-03-11,,Medium,280
+103.0,Customer_103,41.0,54816.3,80,Male,New York,2019-04-13,193.36,High,583
