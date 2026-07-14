@@ -32,6 +32,12 @@ Klean AI automates the data preprocessing, cleaning, and exploratory data analys
 - **ML-Ready Download** — Export the fully prepared dataset
 
 ---
+## 🚀 Live Demo
+
+you can see the working model of the project:  
+🔗 **[Klean AI Live Application](https://buildwithwaseem-klean-ai-app-soo0ef.streamlit.app/)**
+
+---
 
 ## 🚀 Quick Start
 
